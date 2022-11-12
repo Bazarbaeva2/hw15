@@ -7,6 +7,6 @@ public class Main {
         double area = (pi*(radius*radius));
         System.out.println("The radius of the circle " + radius);
 
-                 System.out.println("The area of the circle " + area);
+                  System.out.println("The area of the circle " + area);
     }
 }
